@@ -1,1 +1,29 @@
-Aqui ira todo el texto correspondiente al caso de estudio
+Documento Game Design
+MathQuest: La Aventura Numérica es un videojuego educativo diseñado para enseñar Matemáticas
+a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante.
+La historia se desarrolla en Numerandia, un mundo lleno de misterios, desafíos y
+personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel del
+juego está diseñado para combinar diversión y educación, permitiendo que los
+estudiantes adquieran conocimientos de manera natural mientras exploran,
+resuelven problemas y superan obstáculos.
+El protagonista de esta aventura es Eduin, un niño curioso y valiente, de cabello
+castaño y gafas redondas. Eduin es el héroe elegido por el “Libro de los Números”
+que ha sido elegido para una misión única: recuperar los cristales del conocimiento
+robados por el Señor del Caos. Con su ábaco mágico, Eduin deberá enfrentarse a
+desafíos cada vez más complejos mientras aprende y enseña a los jugadores
+conceptos clave de Matemáticas.
+El jugador podrá resolver operaciones matemáticas interactivas, para avanzar
+deberá superar acertijos numéricos y puzzles lógicos y los desafíos incluirán
+problemas de razonamiento, ecuaciones simples y mini-juegos de agilidad mental.
+Los estudiantes avanzarán mediante un sistema de niveles y recompensas. Cada
+nivel representa un concepto matemático educativo (ejemplo: sumas, restas, multiplicaciones,
+fracciones), y los jugadores recibirán retroalimentación inmediata sobre su
+desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
+Los jugadores aprenderán sumas y restas mediante batallas de números, se
+reforzará multiplicación y división a través de puzzles de puertas mágicas y las
+evaluaciones se realizarán mediante mini-juegos cronometrados, lo que permitirá
+a los profesores y estudiantes medir el progreso de manera efectiva.
+El juego se desarrollará usando Unity 3D con C++ y tendrá soporte para
+Windows, Android e iOS. Además, se implementarán características como
+sistema de perfiles de usuario, modo colaborativo y una interfaz táctil optimizada
+para garantizar una experiencia de juego fluida y atractiva.
